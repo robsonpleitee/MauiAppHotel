@@ -108,6 +108,11 @@
                                BackgroundColor="#3700B3"
                                  TextColor="#E0E0E0"
                                 Clicked="Button_Clicked_1"/>
+                        
+                        <Button Text="Sobre" HorizontalOptions="Center"
+                               BackgroundColor="#3700B3"
+                                 TextColor="#E0E0E0"
+                                Clicked="Button_Clicked_2"/>
                     </HorizontalStackLayout>
                 </Frame>
             </VerticalStackLayout>
